@@ -1,0 +1,207 @@
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csproj.ResolveComReference.cache
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddUser.resources
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.DeleteID.resources
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form2.resources
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Login.resources
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csproj.GenerateResource.Cache
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPPlus.dll
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\itextsharp.dll
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\RawPrint.dll
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPPlus.xml
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\itextsharp.xml
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\MySql.Data.xml
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\de\MigraDoc.Rendering.resources.dll
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\de\PdfSharp.resources.dll
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csprojResolveAssemblyReference.cache
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddLocation.resources
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddDriver.resources
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\obj\Release\ESol.csproj.ResolveComReference.cache
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\bin\Release\EPPlus.dll
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\bin\Release\itextsharp.dll
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\bin\Release\RawPrint.dll
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\bin\Release\EPPlus.xml
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\bin\Release\itextsharp.xml
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\bin\Release\MySql.Data.xml
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\bin\Release\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\bin\Release\de\MigraDoc.Rendering.resources.dll
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\bin\Release\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\bin\Release\de\PdfSharp.resources.dll
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\obj\Release\ESol.csprojResolveAssemblyReference.cache
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddDriver.resources
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddLocation.resources
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddUser.resources
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.DeleteID.resources
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form2.resources
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Login.resources
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\vasilis\Desktop\WindowsFormsApplication3 - Αντιγραφή\WindowsFormsApplication3\obj\Release\ESol.csproj.GenerateResource.Cache
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csproj.ResolveComReference.cache
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPPlus.dll
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\itextsharp.dll
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\RawPrint.dll
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPPlus.xml
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\itextsharp.xml
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddDriver.resources
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddLocation.resources
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddUser.resources
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.DeleteID.resources
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form2.resources
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Login.resources
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csproj.GenerateResource.Cache
+C:\Users\vasilis\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csprojResolveAssemblyReference.cache
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csproj.ResolveComReference.cache
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPPlus.dll
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\ExcelLibrary.dll
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\GemBox.Spreadsheet.dll
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\itextsharp.dll
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\MySql.Data.dll
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\RawPrint.dll
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPPlus.xml
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\GemBox.Spreadsheet.xml
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\itextsharp.xml
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\MySql.Data.xml
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddDriver.resources
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddLocation.resources
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddUser.resources
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.DeleteID.resources
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form2.resources
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Login.resources
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\christod\Desktop\Latest\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csproj.GenerateResource.Cache
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csproj.ResolveComReference.cache
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPPlus.dll
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\ExcelLibrary.dll
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\GemBox.Spreadsheet.dll
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\itextsharp.dll
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\MySql.Data.dll
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\RawPrint.dll
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPPlus.xml
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\GemBox.Spreadsheet.xml
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\itextsharp.xml
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\MySql.Data.xml
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddDriver.resources
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddLocation.resources
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddUser.resources
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.DeleteID.resources
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form2.resources
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Login.resources
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\christod\Desktop\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csproj.GenerateResource.Cache
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csproj.ResolveComReference.cache
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPPlus.dll
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\itextsharp.dll
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\MySql.Data.dll
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\MySqlBackup.dll
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\RawPrint.dll
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPPlus.xml
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\GemBox.Spreadsheet.xml
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\itextsharp.xml
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csprojResolveAssemblyReference.cache
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddDriver.resources
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddLocation.resources
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddUser.resources
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.DeleteID.resources
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form2.resources
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Login.resources
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\vasilis\Downloads\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csproj.GenerateResource.Cache
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csproj.ResolveComReference.cache
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPPlus.dll
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\itextsharp.dll
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\MySql.Data.dll
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\MySqlBackup.dll
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\RawPrint.dll
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPPlus.xml
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\itextsharp.xml
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddDriver.resources
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddLocation.resources
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddUser.resources
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.DeleteID.resources
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form2.resources
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Login.resources
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csproj.GenerateResource.Cache
+C:\Users\vasilis\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csprojResolveAssemblyReference.cache
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csproj.ResolveComReference.cache
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPPlus.dll
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\itextsharp.dll
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\MySql.Data.dll
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\MySqlBackup.dll
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\RawPrint.dll
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPPlus.xml
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\itextsharp.xml
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddDriver.resources
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddLocation.resources
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddUser.resources
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.DeleteID.resources
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form2.resources
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Login.resources
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csproj.GenerateResource.Cache
+C:\Users\christod\Desktop\Latest.1.1 (1)\Latest.1.1\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddPlate.resources
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPPlus.dll
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\itextsharp.dll
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\MySql.Data.dll
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\MySqlBackup.dll
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\RawPrint.dll
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\EPPlus.xml
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\itextsharp.xml
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csproj.ResolveComReference.cache
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddDriver.resources
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddLocation.resources
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddPlate.resources
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddUser.resources
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.DeleteID.resources
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form2.resources
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Login.resources
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.csproj.GenerateResource.Cache
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\christod\Desktop\WF\Latest 1.2\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb

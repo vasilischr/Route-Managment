@@ -1,0 +1,55 @@
+c:\users\christod\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\christod\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\christod\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\christod\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\christod\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\christod\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\christod\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\christod\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+c:\users\christod\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MySql.Data.dll
+c:\users\christod\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MySql.Data.xml
+C:\Users\christod\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Label2.resources
+C:\Users\christod\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\christod\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\christod\documents\visual studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\RawPrint.dll
+C:\Users\vasilis\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\vasilis\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\vasilis\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\RawPrint.dll
+C:\Users\vasilis\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MySql.Data.xml
+C:\Users\vasilis\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\vasilis\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\vasilis\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\vasilis\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\vasilis\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\vasilis\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\vasilis\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\vasilis\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\vasilis\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AddUser.resources
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AddUser.resources
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.DeleteID.resources
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MySql.Data.dll
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\PdfSharp.Charting.dll
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\PdfSharp.dll
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\RawPrint.dll
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MySql.Data.xml
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ExcelLibrary.dll
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EPPlus.dll
+C:\Users\christod\Documents\SharedProjects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EPPlus.xml

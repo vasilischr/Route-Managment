@@ -1,0 +1,8 @@
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\E-Sol.csprojResolveAssemblyReference.cache
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\E-Sol.csproj.ResolveComReference.cache
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.AddUser.resources
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.DeleteID.resources
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form2.resources
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Login.resources
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\ESol.Properties.Resources.resources
+C:\Users\vasilis\Documents\MEGA\SharedProject\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\E-Sol.csproj.GenerateResource.Cache
